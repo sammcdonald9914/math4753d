@@ -12,7 +12,7 @@
 #' @return plot of p-value and rejection region for t distribution
 #' @export
 #'
-#' @examples mypvalue=function(t0=2,xmax=5,n=30, alpha=0.05)
+#' @examples mypvalue(t0=2,xmax=5,n=30, alpha=0.05)
 mypvalue=function(t0,xmax=4,n=20, alpha=0.05){
   #calculate alpha/2
   va=round(pt(-t0,df=n-1),4)
