@@ -9,7 +9,7 @@
 #' @return a list of vectors
 #' @export
 #'
-#' @examples
+#' @examples myf(5)
 myf=function(x){
   obj1=x^2
   obj2=x^3

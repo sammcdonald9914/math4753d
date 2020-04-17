@@ -18,3 +18,6 @@ Produce list of squares and cubes
 \details{
 This is a part of the introduction to package making
 }
+\examples{
+myf(5)
+}
