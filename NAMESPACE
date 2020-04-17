@@ -3,7 +3,6 @@
 export(myboot2)
 export(myci)
 export(myf)
-export(mymaxlik)
 export(myncurve)
 export(mypvalue)
 export(mysample)
